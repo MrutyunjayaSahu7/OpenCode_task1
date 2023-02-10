@@ -20,8 +20,8 @@ GitHub :
 Question 2: 5 basic git commands:-
 ANS:-
 $ git --version  ( it will show the current version of the Git)
-$ git config --global user.name "my_username" ( It will set the username of the user in Git)
-$ git config --global user.email "my email" (It will set the email address of the user in the git)
+$ git config --global user.username "my_username" ( It will link the username of the user in Git)
+$ git config --global user.email "my email" (It will link the email address of the user in the git)
 $ git init (It will create a new local Git repository)
 $ git commit -m "Message to go with the commit here" (It will create a snapshot of the changes and save it to the Git repository)
 
