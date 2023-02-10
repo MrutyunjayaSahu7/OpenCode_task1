@@ -1,0 +1,34 @@
+Question 1: Difference between Git and Github:-
+ANS:-
+Git:
+-----
+1. Git is a version control system that is installed locally,which tracks the changes occurring in the source code during the process of software development.
+2. The main focus of Git is to coordinate the work among the programmers.  
+3. It is maintained by Linux.
+4. It is not a platform, it is a software.
+5. It is completely free.
+
+
+GitHub :
+-------
+1. GitHub is a web-based hosting service to store all the Git repositories in one place, so that different coders can collab on the same project.
+2. The primary focus of GitHub is the hosting of the centralized source code.
+3. It is owned by Microsoft.
+4. It is not a software, it is a platform.
+5. GitHub offers different plans from Free to Team and Enterprise.
+
+Question 2: 5 basic git commands:-
+ANS:-
+$ git --version  ( it will show the current version of the Git)
+$ git config --global user.name "my_username" ( It will set the username of the user in Git)
+$ git config --global user.email "my email" (It will set the email address of the user in the git)
+$ git init (It will create a new local Git repository)
+$ git commit -m "Message to go with the commit here" (It will create a snapshot of the changes and save it to the Git repository)
+
+
+Question 3: Making a Pull request:
+ANS:-   Step 1: Log in to your account in GitHub.
+	 Step 2: Now navigate to the main page of the repository and choose the project required to make a pull request.
+	 Step 3: Click on Pull Request >> New Pull Request.
+	 Step 4: Click on the “Import Code” button.
+ 
